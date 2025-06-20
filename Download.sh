@@ -1,7 +1,5 @@
 #!/data/data/com.termux/files/usr/bin/bash
-
 termux-setup-storage
-
 apt update && apt upgrade -y && apt dist-upgrade -y
 apt install root-repo -y
 apt install x11-repo -y
@@ -20,6 +18,5 @@ apt install cloudflared -y
 apt install openssh -y
 apt install sshpass -y
 gem install lolcat
-
 python3 -m pip install --upgrade pip
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/turah0393/Termux-Android-Rescue/main/Download.sh)"
