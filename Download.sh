@@ -18,5 +18,4 @@ apt install cloudflared -y
 apt install openssh -y
 apt install sshpass -y
 gem install lolcat
-python3 -m pip install --upgrade pip
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/turah0393/Termux-Android-Rescue/main/Download.sh)"
