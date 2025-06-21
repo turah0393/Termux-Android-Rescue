@@ -18,4 +18,4 @@ apt install cloudflared -y
 apt install openssh -y
 apt install sshpass -y
 gem install lolcat
-sh -c "$(curl -fsSL https://raw.githubusercontent.com/turah0393/Termux-Android-Rescue/main/Download.sh)"
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/mygithub/turah0393/Termux-Android-Rescue/main/Download.sh)"
